@@ -18,7 +18,7 @@ var jwDefaults = {
   "height": 260,
   "key": "nSUlxFS6BDvdz3SrXnoqXQaBsOcSwPF2Tixbam5v8+/aMSbC9Y0r7/1K2ECLwrSR",
   "logo": {
-    "file": "https://assets-jpcust.jwpsrv.com/watermarks/RUjIlP0s.png",
+    "file": "",
     "hide": false,
     "margin": "10",
     "position": "top-right"
